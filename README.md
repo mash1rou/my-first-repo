@@ -1,3 +1,3 @@
-# Tugas Project Mobile Apps
-Nama : Raditya Maheswara  
-NIM: 23/516252/PA/22075
+Nama : Raditya Maheswara
+NPM : 23/51652/PA/22075 
+Kelas : CSA
